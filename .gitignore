@@ -1,9 +1,5 @@
 tmp/
-
-dz2/*.html_old
-
-dz2/*.png_backup
-
+*.html_old
+*.png_backup
 Thumbs.db
-
 .DS_Store
